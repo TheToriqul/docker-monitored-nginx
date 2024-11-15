@@ -82,6 +82,7 @@ flowchart TB
     class network network
     class nginx,watcher,service service
 ```
+  - [**If you’re unable to view the Technical Architecture diagram, please click on this link.**](./Technical%20Architecture.png)
 
 ## 💻 Technical Stack
 
